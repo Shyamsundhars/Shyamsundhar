@@ -1,7 +1,22 @@
 h1 {
-    color: rgba(23, 161, 196, 0.964);
+    color: rgba(195, 209, 212, 0.964);
 }
-
+body{
+    background-color: black;
+}
 h2{}
-p{}
-
+p{
+    color: white;
+    
+}
+header {
+    background-color: #1b387a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1em;
+}
+header nav a {
+    color: rgba(195, 209, 212,0.964);
+    margin: 0 15px;
+    text-decoration: none;
+}
